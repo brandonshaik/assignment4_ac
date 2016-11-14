@@ -1,0 +1,2 @@
+#What a Trump Presidency Means for Immigrant Youth
+This project, part of an Advance Coding course at the CUNY Graduate School of Journalism, is a look at the Deferred Action for Childhood Arrivals (DACA) program, which began under the Obama administration and provides immigrant youth with a chance to work in the US. Trump has said he will eliminate the program, this project addresses how this will impact immigrant youth.
